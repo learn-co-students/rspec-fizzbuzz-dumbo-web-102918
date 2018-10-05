@@ -224,7 +224,7 @@ Remember, your goal here is not to be able to write that test suite, yet. Your g
 Now, from within the directory of this file, type the `learn` command. Your terminal should have an output that looks something like this:
 
 ```
-fizzbuzz
+rfizzbuzz
   returns "Fizz" when the number is divisible by 3 (FAILED - 1)
   returns "Buzz" when the number is divisible by 5 (FAILED - 2)
   returns "FizzBuzz" when the number is divisible by 3 and 5 (FAILED - 3)
